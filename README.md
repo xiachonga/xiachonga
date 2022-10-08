@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiachonga
-- 🌱 I’m a phd candidate in Institute of Computing Technology, Chinese Academy of Sciences
+- 🌱 I’m a phd candidate at the Institute of Computing Technology, Chinese Academy of Sciences
 - 👀 I’m interested in compiler and computer architecture
 <!---
 xiachonga/xiachonga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
